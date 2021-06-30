@@ -4,3 +4,8 @@
 
 
 <img src="assets/img/icon/tothemoon.png" width="100" height="100">
+
+
+이 프로그램은 RSI를 이용해 알림을 받아볼 수 있게 만들었습니다.
+
+많은 도움이 되리라 생각합니다.
