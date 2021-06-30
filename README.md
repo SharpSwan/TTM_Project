@@ -2,15 +2,15 @@
 
 ---
 
-안녕하세요. TTM RSI 알리미 개발자입니다.
+안녕하세요. TTM 코인 RSI 알리미 개발자입니다.
 
-TTM RSI 알리미는 
+TTM 코인 RSI 알리미는 
 이렇게 구성 되어 있습니다.
 
 <img src ="https://github.com/SharpSwan/SharpSwan.github.io/blob/master/assets/img/TTM/RSI/color.gif?raw=true">
 
 
-## TTM 알리미 구성
+## TTM 코인 RSI 알리미 구성
 
 ### 1.메인화면
 - [텔레그램 알림](#텔레그램-알림)
@@ -206,7 +206,7 @@ RSI 30 밑으로 하락, 30위로 상승
 
 상업적, 개인적 이득을 위해서 사용하시면 법적인 책임을 물을 수 있습니다. 
 
-그리고 될 수 있으면 어떤 문제가 생길지 모르기 떄문에 
+그리고 될 수 있으면 어떤 문제가 생길지 모르기 때문에
 
 공식적인 루트를 통해서만 다운해주시기 바랍니다. 
 
