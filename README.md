@@ -27,7 +27,7 @@ RSI에 대한 글은 저의 [네이버 블로그](https://blog.naver.com/qqwert2
 <br>
 
 
-## Purpose of this porject
+## Purpose of this project
 
 ---
 
